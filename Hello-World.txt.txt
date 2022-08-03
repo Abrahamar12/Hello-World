@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 Welcome tobranch3
+=======
+Hola desde la rama2
+Hola jijija
+hasta luego
+>>>>>>> origin/branch2
